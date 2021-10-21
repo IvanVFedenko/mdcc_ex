@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/mdcc_ex/static/css/main.d3ba1745.chunk.css",
-    "main.js": "/mdcc_ex/static/js/main.7635bc04.chunk.js",
-    "main.js.map": "/mdcc_ex/static/js/main.7635bc04.chunk.js.map",
+    "main.css": "/mdcc_ex/static/css/main.56610bf7.chunk.css",
+    "main.js": "/mdcc_ex/static/js/main.ec3fdb63.chunk.js",
+    "main.js.map": "/mdcc_ex/static/js/main.ec3fdb63.chunk.js.map",
     "runtime-main.js": "/mdcc_ex/static/js/runtime-main.37e57e50.js",
     "runtime-main.js.map": "/mdcc_ex/static/js/runtime-main.37e57e50.js.map",
     "static/css/2.6c0f60ba.chunk.css": "/mdcc_ex/static/css/2.6c0f60ba.chunk.css",
-    "static/js/2.1a1aa9dd.chunk.js": "/mdcc_ex/static/js/2.1a1aa9dd.chunk.js",
-    "static/js/2.1a1aa9dd.chunk.js.map": "/mdcc_ex/static/js/2.1a1aa9dd.chunk.js.map",
+    "static/js/2.c84f59fa.chunk.js": "/mdcc_ex/static/js/2.c84f59fa.chunk.js",
+    "static/js/2.c84f59fa.chunk.js.map": "/mdcc_ex/static/js/2.c84f59fa.chunk.js.map",
     "index.html": "/mdcc_ex/index.html",
     "static/css/2.6c0f60ba.chunk.css.map": "/mdcc_ex/static/css/2.6c0f60ba.chunk.css.map",
-    "static/css/main.d3ba1745.chunk.css.map": "/mdcc_ex/static/css/main.d3ba1745.chunk.css.map",
-    "static/js/2.1a1aa9dd.chunk.js.LICENSE.txt": "/mdcc_ex/static/js/2.1a1aa9dd.chunk.js.LICENSE.txt",
+    "static/css/main.56610bf7.chunk.css.map": "/mdcc_ex/static/css/main.56610bf7.chunk.css.map",
+    "static/js/2.c84f59fa.chunk.js.LICENSE.txt": "/mdcc_ex/static/js/2.c84f59fa.chunk.js.LICENSE.txt",
     "static/media/Bild.a697cb8b.png": "/mdcc_ex/static/media/Bild.a697cb8b.png",
     "static/media/Bild_rotated.f5728a56.png": "/mdcc_ex/static/media/Bild_rotated.f5728a56.png",
     "static/media/Digital-nomad-working-near-beach-3-256.8b30e825.png": "/mdcc_ex/static/media/Digital-nomad-working-near-beach-3-256.8b30e825.png",
@@ -25,7 +25,6 @@
     "static/media/green_image.d2ef38b6.png": "/mdcc_ex/static/media/green_image.d2ef38b6.png",
     "static/media/logo.6a0847e0.svg": "/mdcc_ex/static/media/logo.6a0847e0.svg",
     "static/media/money-growing-on-trees-1--money-GROW-TREE-FINANCE-BUSINESS-GROWTH-FARM-PLANT-DOLLAR-COIN-STACK-256.7ea8f57f.png": "/mdcc_ex/static/media/money-growing-on-trees-1--money-GROW-TREE-FINANCE-BUSINESS-GROWTH-FARM-PLANT-DOLLAR-COIN-STACK-256.7ea8f57f.png",
-    "static/media/right_arrow_icon.2dcc788e.svg": "/mdcc_ex/static/media/right_arrow_icon.2dcc788e.svg",
     "static/media/streamline-icon-accounting-coins-stack@25x25.cb5a9666.svg": "/mdcc_ex/static/media/streamline-icon-accounting-coins-stack@25x25.cb5a9666.svg",
     "static/media/streamline-icon-cash-payment-coin-stash@25x25.1166e31b.svg": "/mdcc_ex/static/media/streamline-icon-cash-payment-coin-stash@25x25.1166e31b.svg",
     "static/media/streamline-icon-database-check@25x25.8d8f6175.svg": "/mdcc_ex/static/media/streamline-icon-database-check@25x25.8d8f6175.svg",
@@ -37,8 +36,8 @@
   "entrypoints": [
     "static/js/runtime-main.37e57e50.js",
     "static/css/2.6c0f60ba.chunk.css",
-    "static/js/2.1a1aa9dd.chunk.js",
-    "static/css/main.d3ba1745.chunk.css",
-    "static/js/main.7635bc04.chunk.js"
+    "static/js/2.c84f59fa.chunk.js",
+    "static/css/main.56610bf7.chunk.css",
+    "static/js/main.ec3fdb63.chunk.js"
   ]
 }
