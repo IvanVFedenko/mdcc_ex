@@ -1,0 +1,8 @@
+<svg id="icons_tabbar_share" data-name="icons/tabbar/share" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <rect id="icons_tabbar_share_background" data-name="icons/tabbar/share background" width="20" height="20" fill="rgba(0,0,0,0)"/>
+  <g id="share" transform="translate(1.818 1.818)">
+    <path id="Stroke_1" data-name="Stroke 1" d="M16.364,8.182A8.182,8.182,0,1,1,8.182,0" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Stroke_3" data-name="Stroke 3" d="M0,8.182,8.182,0V4.568" transform="translate(8.182)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Stroke_5" data-name="Stroke 5" d="M0,1H4.545" transform="translate(11.818 -1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>
