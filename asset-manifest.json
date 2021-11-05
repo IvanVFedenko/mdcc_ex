@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mdcc_ex/static/css/main.d2920e72.chunk.css",
+    "main.css": "/mdcc_ex/static/css/main.1d1edc54.chunk.css",
     "main.js": "/mdcc_ex/static/js/main.7f288b71.chunk.js",
     "main.js.map": "/mdcc_ex/static/js/main.7f288b71.chunk.js.map",
     "runtime-main.js": "/mdcc_ex/static/js/runtime-main.37e57e50.js",
@@ -10,7 +10,7 @@
     "static/js/2.13884a8a.chunk.js.map": "/mdcc_ex/static/js/2.13884a8a.chunk.js.map",
     "index.html": "/mdcc_ex/index.html",
     "static/css/2.6c0f60ba.chunk.css.map": "/mdcc_ex/static/css/2.6c0f60ba.chunk.css.map",
-    "static/css/main.d2920e72.chunk.css.map": "/mdcc_ex/static/css/main.d2920e72.chunk.css.map",
+    "static/css/main.1d1edc54.chunk.css.map": "/mdcc_ex/static/css/main.1d1edc54.chunk.css.map",
     "static/js/2.13884a8a.chunk.js.LICENSE.txt": "/mdcc_ex/static/js/2.13884a8a.chunk.js.LICENSE.txt",
     "static/media/03_Terms.c2e68d1d.jpg": "/mdcc_ex/static/media/03_Terms.c2e68d1d.jpg",
     "static/media/04_Staking.657d8329.jpg": "/mdcc_ex/static/media/04_Staking.657d8329.jpg",
@@ -38,7 +38,7 @@
     "static/js/runtime-main.37e57e50.js",
     "static/css/2.6c0f60ba.chunk.css",
     "static/js/2.13884a8a.chunk.js",
-    "static/css/main.d2920e72.chunk.css",
+    "static/css/main.1d1edc54.chunk.css",
     "static/js/main.7f288b71.chunk.js"
   ]
 }
