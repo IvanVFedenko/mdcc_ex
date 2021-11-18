@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/mdcc_ex/static/css/main.6d00a6d8.chunk.css",
-    "main.js": "/mdcc_ex/static/js/main.e4ce85a1.chunk.js",
-    "main.js.map": "/mdcc_ex/static/js/main.e4ce85a1.chunk.js.map",
+    "main.css": "/mdcc_ex/static/css/main.bb9809f8.chunk.css",
+    "main.js": "/mdcc_ex/static/js/main.068c0f1d.chunk.js",
+    "main.js.map": "/mdcc_ex/static/js/main.068c0f1d.chunk.js.map",
     "runtime-main.js": "/mdcc_ex/static/js/runtime-main.37e57e50.js",
     "runtime-main.js.map": "/mdcc_ex/static/js/runtime-main.37e57e50.js.map",
     "static/css/2.6c0f60ba.chunk.css": "/mdcc_ex/static/css/2.6c0f60ba.chunk.css",
-    "static/js/2.97e0dbbf.chunk.js": "/mdcc_ex/static/js/2.97e0dbbf.chunk.js",
-    "static/js/2.97e0dbbf.chunk.js.map": "/mdcc_ex/static/js/2.97e0dbbf.chunk.js.map",
+    "static/js/2.7db1cfef.chunk.js": "/mdcc_ex/static/js/2.7db1cfef.chunk.js",
+    "static/js/2.7db1cfef.chunk.js.map": "/mdcc_ex/static/js/2.7db1cfef.chunk.js.map",
     "index.html": "/mdcc_ex/index.html",
     "static/css/2.6c0f60ba.chunk.css.map": "/mdcc_ex/static/css/2.6c0f60ba.chunk.css.map",
-    "static/css/main.6d00a6d8.chunk.css.map": "/mdcc_ex/static/css/main.6d00a6d8.chunk.css.map",
-    "static/js/2.97e0dbbf.chunk.js.LICENSE.txt": "/mdcc_ex/static/js/2.97e0dbbf.chunk.js.LICENSE.txt",
+    "static/css/main.bb9809f8.chunk.css.map": "/mdcc_ex/static/css/main.bb9809f8.chunk.css.map",
+    "static/js/2.7db1cfef.chunk.js.LICENSE.txt": "/mdcc_ex/static/js/2.7db1cfef.chunk.js.LICENSE.txt",
     "static/media/03_Terms.c0c54518.jpg": "/mdcc_ex/static/media/03_Terms.c0c54518.jpg",
     "static/media/04_Staking.62ac2e92.jpg": "/mdcc_ex/static/media/04_Staking.62ac2e92.jpg",
     "static/media/05_LiquidityMining.3f9a1cb9.jpg": "/mdcc_ex/static/media/05_LiquidityMining.3f9a1cb9.jpg",
@@ -33,13 +33,14 @@
     "static/media/streamline-icon-database-check@25x25.8d8f6175.svg": "/mdcc_ex/static/media/streamline-icon-database-check@25x25.8d8f6175.svg",
     "static/media/streamline-icon-gift-box@25x25-biege.5772193e.svg": "/mdcc_ex/static/media/streamline-icon-gift-box@25x25-biege.5772193e.svg",
     "static/media/streamline-icon-gift-box@25x25.03dadd13.svg": "/mdcc_ex/static/media/streamline-icon-gift-box@25x25.03dadd13.svg",
-    "static/media/streamline-icon-performance-increase@25x25.d3a85a3c.svg": "/mdcc_ex/static/media/streamline-icon-performance-increase@25x25.d3a85a3c.svg"
+    "static/media/streamline-icon-performance-increase@25x25.d3a85a3c.svg": "/mdcc_ex/static/media/streamline-icon-performance-increase@25x25.d3a85a3c.svg",
+    "static/media/uniswap.41d87514.svg": "/mdcc_ex/static/media/uniswap.41d87514.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.37e57e50.js",
     "static/css/2.6c0f60ba.chunk.css",
-    "static/js/2.97e0dbbf.chunk.js",
-    "static/css/main.6d00a6d8.chunk.css",
-    "static/js/main.e4ce85a1.chunk.js"
+    "static/js/2.7db1cfef.chunk.js",
+    "static/css/main.bb9809f8.chunk.css",
+    "static/js/main.068c0f1d.chunk.js"
   ]
 }
